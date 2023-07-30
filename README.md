@@ -1,2 +1,2 @@
 # MY_CALSI
-It's a simple calculator with GUI Python Tkinter
+It's a simple calculator project with GUI using Python Tkinter
